@@ -26,6 +26,7 @@
 ## Technologies Used
 
 ### Backend
+- **Java**
 - JavaServer Pages (**JSP**)
 - **Servlets**
 - **Spring MVC**
