@@ -1,7 +1,5 @@
 # Rapid-Grocery-E-commerce
 
-![Project Banner](assets/images/banner.png)
-
 ## Overview
 **Rapid-Grocery-E-commerce** is a full-featured web application designed to streamline online grocery shopping. The system consists of two separate modules:
 
@@ -36,6 +34,9 @@
 - **Apache Server** (Deployment)
 
 ### Frontend
+- **JavaScript**
+- **AJax**
+- **jQuery**
 - **Bootstrap**
 - **CSS**
 
