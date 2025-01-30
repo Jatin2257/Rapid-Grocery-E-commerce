@@ -66,9 +66,10 @@ Ensure you have the following installed:
    - Deploy the application on **Apache Server**.
 
 4. **Access the Application:**
-   - **User Side:** `http://localhost:8080/user`
+   - **User Side:** `http://localhost:8085/user`
    - **Admin Panel:** `http://localhost:8080/admin`
 
+   You need to run into two different port.
 ---
 
 ## Usage
